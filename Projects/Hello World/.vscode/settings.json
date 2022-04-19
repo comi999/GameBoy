@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gb.h": "c",
+        "hardware.h": "c",
+        "types.h": "c",
+        "drawing.h": "c",
+        "vector": "c",
+        "cmath": "c",
+        "float.h": "c"
+    }
+}
